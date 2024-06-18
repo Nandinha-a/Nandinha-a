@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil 😁
+## Bem-vindo(a) ao meu perfil 🐱‍👤
 
  <div>
    <a href="https://github.com/Nandinha-a">
@@ -13,6 +13,8 @@
 </div>
  
 <br>
+
+Espero que goste do meu humilde perfil 😥😥
  
 <!-- ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
  
